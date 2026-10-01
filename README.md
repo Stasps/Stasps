@@ -18,8 +18,9 @@ Go-разработчик. Ищу команду с ментором, где с�
 
 ## Проекты
 
+
 - **[Arbitrage Monitor](https://github.com/Stasps/arbitrage-monitor)** — мониторинг арбитражных возможностей между акциями и фьючерсами через gRPC API Т-Инвестиций. Go, SQLite, WebSocket.
-- **[Go Final Project](https://github.com/Stasps/go-final-project)** — планировщик задач с REST API, JWT-аутентификацией, архивом выполненных задач и CI/CD. Go, SQLite, Docker, GitHub Actions.
+- **[Go Final Project](https://github.com/Stasps/go-final-project/tree/review)** — планировщик задач с REST API, JWT-аутентификацией, архивом выполненных задач и CI/CD. Go, SQLite, Docker, GitHub Actions.
 
 ## Контакты
 
