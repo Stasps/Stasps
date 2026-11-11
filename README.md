@@ -22,7 +22,7 @@ Go-разработчик. Ищу команду с ментором, где с�
 
 - **[Arbitrage Monitor](https://github.com/Stasps/arbitrage-monitor)** — мониторинг арбитражных возможностей между акциями и фьючерсами через gRPC API Т-Инвестиций. Go, SQLite, WebSocket.
 - **[Go Final Project](https://github.com/Stasps/go-final-project/tree/review)** — планировщик задач с REST API, JWT-аутентификацией, архивом выполненных задач и CI/CD. Go, SQLite, Docker, GitHub Actions.
-- **[Inspired Kingdoms(WIP](https://github.com/Stasps/inspiredTK)** — браузерная multiplayer-стратегия на Go. Сервер-авторитетная симуляция: событийный планировщик, ленивые вычисления ресурсов, JSON-конфиги, WebSocket, снапшоты и журнал событий. Навыки: архитектура, быстрое прототипирование, работа с документацией, сложная логика.
+- **[Inspired Kingdoms(WIP)](https://github.com/Stasps/inspiredTK)** — браузерная multiplayer-стратегия на Go. Сервер-авторитетная симуляция: событийный планировщик, ленивые вычисления ресурсов, JSON-конфиги, WebSocket, снапшоты и журнал событий. Навыки: архитектура, быстрое прототипирование, работа с документацией, сложная логика.
 
 ## Контакты
 
