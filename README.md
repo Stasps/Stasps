@@ -10,10 +10,11 @@ Go-разработчик. Ищу команду с ментором, где с�
 
 ## Технологии
 
-- **Язык:** Go
-- **API:** REST, gRPC
-- **БД:** SQLite, PostgreSQL (базово)
-- **Инструменты:** Docker, Git, GitHub Actions, Linux
+- **Язык:** Go, Python — базово / интеграционные скрипты
+- **API:** REST API, gRPC, WebSocket, JSON, вебхуки
+- **БД:** SQLite, PostgreSQL — базово; Redis — готов освоить
+- **Инструменты:** Docker, Git, GitHub Actions, Linux, JWT, CI/CD
+- **LLM/low-code:** LLM-инструменты в разработке, понимание RAG/embeddings/токенов/structured outputs; LangFlow/n8n — готов освоить
 - **Прочее:** JWT-аутентификация, CI/CD
 
 ## Проекты
@@ -21,6 +22,7 @@ Go-разработчик. Ищу команду с ментором, где с�
 
 - **[Arbitrage Monitor](https://github.com/Stasps/arbitrage-monitor)** — мониторинг арбитражных возможностей между акциями и фьючерсами через gRPC API Т-Инвестиций. Go, SQLite, WebSocket.
 - **[Go Final Project](https://github.com/Stasps/go-final-project/tree/review)** — планировщик задач с REST API, JWT-аутентификацией, архивом выполненных задач и CI/CD. Go, SQLite, Docker, GitHub Actions.
+- **[Inspired Kingdoms](https://github.com/Stasps/inspiredTK) — браузерная multiplayer-стратегия на Go. Сервер-авторитетная симуляция: событийный планировщик, ленивые вычисления ресурсов, JSON-конфиги, WebSocket, снапшоты и журнал событий. Навыки: архитектура, быстрое прототипирование, работа с документацией, сложная логика.
 
 ## Контакты
 
